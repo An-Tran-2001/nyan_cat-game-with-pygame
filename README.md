@@ -1,3 +1,3 @@
-# nyan_cat-game-with-pygame
-game nyancat viết bằng pygame
-![image](https://user-images.githubusercontent.com/93371117/205074605-47dc5a33-1093-476d-b0d1-a70e24ce96aa.png)
+# Demo pic
+![image](https://user-images.githubusercontent.com/93371117/205075674-a187e454-8564-4af6-bf40-2cdf2f7c522b.png)
+
